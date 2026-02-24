@@ -3,7 +3,7 @@ import Features from "@/components/features-1";
 import FooterSection from "@/components/footer";
 import HeroSection from "@/components/hero-section";
 import IntegrationsSection from "@/components/integrations-1";
-import StatsSection from "@/components/stats";
+import StatsSection from "@/components/stats-2";
 import TeamSection from "@/components/team";
 
 export default function Home() {
